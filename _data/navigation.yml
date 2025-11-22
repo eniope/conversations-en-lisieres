@@ -1,32 +1,15 @@
 main:
-
-&nbsp; - title: "Accueil"
-
-&nbsp;   url: "/"
-
-&nbsp; - title: "Carnet"
-
-&nbsp;   url: "/categories/#carnet"
-
-&nbsp; - title: "Fiches publiques"
-
-&nbsp;   url: "/public/"
-
-&nbsp; - title: "Recherche"
-
-&nbsp;   url: "/recherche/"
-
-
+  - title: "Accueil"
+    url: "/"
+  - title: "Carnet"
+    url: "/categories/#carnet"
+  - title: "Public"
+    url: "/public/"
+  - title: "Recherche"
+    url: "/recherche/"
 
 projet1:
-
-&nbsp; - title: "Projet 1"
-
-&nbsp;   children:
-
-&nbsp;     - title: "Introduction"
-
-&nbsp;       url: /projet1/introduction/
-
-
-
+  - title: "Projet 1"
+    children:
+      - title: "Introduction"
+        url: /projet1/introduction/
