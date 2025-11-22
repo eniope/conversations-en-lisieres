@@ -1,0 +1,14 @@
+title: "De quel \"je\" je parle"
+description: "Journal et fragments d’un habitant-chercheur automissionné"
+
+url: "https://eniope.github.io"
+baseurl: "/conversations-en-lisieres"
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@latest"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-include-cache

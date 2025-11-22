@@ -1,0 +1,11 @@
+# Complément Netlify : active les sections non publiques plus tard
+
+collections:
+  # Ces deux dossiers n’existent pas encore,
+  # mais ils seront visibles dans la version protégée
+  equipe:
+    output: true
+    permalink: /equipe/:title/
+  partenaires:
+    output: true
+    permalink: /partenaires/:title/
