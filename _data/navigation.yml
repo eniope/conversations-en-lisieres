@@ -8,20 +8,12 @@ main:
   - title: "Recherche"
     url: "/recherche/"
 
-projet1:
-  - title: "Projet 1"
-    children:
-      - title: "Introduction"
-        url: /projet1/introduction/
-
 sidebar-sample:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
         url: /
       - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
         url: /
   - title: "Parent Page B"
     children:

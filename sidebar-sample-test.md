@@ -1,34 +1,14 @@
 ---
-
 layout: single
-
 title: "Test Sidebar Sample"
-
 permalink: /sidebar-sample-test/
-
 sidebar:
-
-&nbsp; title: "Sample Title"
-
-&nbsp; nav: sidebar-sample
-
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
 
+Cette page devrait afficher :
 
-
-\# Test Sidebar Sample
-
-
-
-Si la navigation de sidebar fonctionne, tu devrais voir ici :
-
-
-
-\- Un titre "Sample Title"
-
-\- Un lien/bouton "Toggle Menu"
-
-\- Une liste "Parent Page A / B" et leurs enfants.
-
-
-
+- Sample Title
+- un lien/bouton Toggle Menu
+- Parent Page A/B et leurs enfants

@@ -7,9 +7,6 @@ baseurl: "/conversations-en-lisieres"
 theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-enable_sidebar: true
-
-
 markdown: kramdown
 highlighter: rouge
 
@@ -22,28 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# -------------------------
-# NAVIGATION PRINCIPALE
-# -------------------------
-# (si tu veux la gérer avec _data/navigation.yml, garde juste le bloc suivant)
-# rien d'autre ici
-
-# -------------------------
-# COLLECTIONS
-# -------------------------
-
-collections:
-  public:
-    output: true
-    permalink: /public/:title/
-  projet1:
-    output: true
-    permalink: /projet1/:title/
-
-# -------------------------
-# ARCHIVES (catégories / tags)
-# -------------------------
-
 category_archive:
   type: liquid
   path: /categories/
@@ -52,50 +27,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# -------------------------
-# DEFAULTS
-# -------------------------
-
 defaults:
-  # Billets du carnet dans _posts/
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      classes: wide
-      toc: true
-      toc_sticky: true
-      read_time: true
-      categories: ["carnet"]
 
-  # Fiches publiques dans _public/
-  - scope:
-      path: ""
-      type: public
-    values:
-      layout: single
-      classes: wide
-      toc: true
-      toc_sticky: true
-      categories: ["public"]
-
-  # Pages du Projet 1
-  - scope:
-      path: ""
-      type: projet1
-    values:
-      layout: single
-      classes: wide
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "projet1"
-
-# -------------------------
-# RECHERCHE
-# -------------------------
-
-search: true
-lunr:
-  search_within_pages: true
+search: false
