@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "De quel \"je\" je parle"
+title: Conversations en lisières
 ---
 
 Bienvenue.
