@@ -5,7 +5,8 @@ url: "https://eniope.github.io"
 baseurl: "/conversations-en-lisieres"
 
 theme: null
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
+
 
 markdown: kramdown
 highlighter: rouge
