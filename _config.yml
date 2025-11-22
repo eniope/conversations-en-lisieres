@@ -7,6 +7,8 @@ baseurl: "/conversations-en-lisieres"
 theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+enable_sidebar: true
+
 
 markdown: kramdown
 highlighter: rouge
