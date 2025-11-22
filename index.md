@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Conversations en lisières
+title: "Conversations en lisières"
 ---
 
 Bienvenue.

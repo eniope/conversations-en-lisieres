@@ -13,3 +13,19 @@ projet1:
     children:
       - title: "Introduction"
         url: /projet1/introduction/
+
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
