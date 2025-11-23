@@ -27,6 +27,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Defaults existants pour pages normales
 defaults:
   - scope:
       path: ""
@@ -34,4 +35,30 @@ defaults:
     values:
       layout: single
 
-search: false
+# === NOUVEAU : Collection "dossier-posersavoix" ===
+
+collections:
+  dossier-posersavoix:
+    output: true
+    permalink: /dossier/posersavoix/:name/
+
+# Defaults spécifiques au dossier poser sa voix
+defaults:
+  - scope:
+      path: ""
+      type: dossier-posersavoix
+    values:
+      layout: single
+      sidebar:
+        nav: "dossier-posersavoix"
+      toc: true
+      toc_sticky: true
+      categories: ["dossier", "posersavoix"]
+
+search: true
+
+lunr:
+  search_within_pages: true
+
+
+

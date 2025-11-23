@@ -1,23 +1,55 @@
+###############################################
+# MASTHEAD (menu principal en haut du site)
+###############################################
+
 main:
   - title: "Accueil"
     url: "/"
+
+  - title: "Dossiers"
+    url: "/dossiers/"
+    children:
+      - title: "Poser sa voix"
+        url: "/dossiers/posersavoix/"
+      # - title: "Bibliothèque vivante"
+      #   url: "/dossiers/bibliotheque-vivante/"
+      # (Tu ajouteras ici les futurs dossiers)
+
   - title: "Carnet"
     url: "/categories/#carnet"
+
   - title: "Public"
     url: "/public/"
+
   - title: "Recherche"
     url: "/recherche/"
 
-sidebar-sample:
-  - title: "Parent Page A"
+
+###############################################
+# SIDEBAR : navigation interne du dossier
+###############################################
+
+dossier-posersavoix:
+  - title: "Poser sa voix"
+    url: /dossiers/posersavoix/
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
+      - title: "1. Pourquoi se situer ?"
+        url: /dossiers/posersavoix/01-pourquoi-se-situer/
+      - title: "2. Temps & trajectoires"
+        url: /dossiers/posersavoix/02-temps/
+      - title: "3. Territoire & filtres"
+        url: /dossiers/posersavoix/03-territoire/
+      - title: "4. Interdépendances"
+        url: /dossiers/posersavoix/04-interdependance/
+      - title: "5. Bibliothèque vivante"
+        url: /dossiers/posersavoix/05-bibliotheque-vivante/
+      - title: "6. Mon « je » actuel"
+        url: /dossiers/posersavoix/06-mon-je/
+      - title: "7. Synthèse"
+        url: /dossiers/posersavoix/07-synthese/
+      - title: "Ressources"
+        url: /dossiers/posersavoix/ressources/
+      - title: "Schémas"
+        url: /dossiers/posersavoix/schemas/
+      - title: "Carte mentale"
+        url: /dossiers/posersavoix/carte-mentale/
