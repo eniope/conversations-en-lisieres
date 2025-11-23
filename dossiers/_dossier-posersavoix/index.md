@@ -1,10 +1,9 @@
 ---
-
 title: "Poser sa voix — accueil"
-
 layout: single
-
+permalink: /dossiers/posersavoix/
 ---
+
 
 
 
