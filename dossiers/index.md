@@ -12,7 +12,7 @@ layout: single
 
 
 
-\- \[Poser sa voix](/conversations-en-lisieres/dossiers/posersavoix/)
+\- \[Poser sa voix](https://eniope.github.io/conversations-en-lisieres/dossiers/posersavoix/)
 
 
 
