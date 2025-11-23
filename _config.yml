@@ -38,9 +38,9 @@ defaults:
 # === NOUVEAU : Collection "dossier-posersavoix" ===
 
 collections:
-  dossier-posersavoix:
+  _dossier-posersavoix:
     output: true
-    permalink: /dossier/posersavoix/:name/
+    permalink: /dossiers/posersavoix/:name/
 
 # Defaults spécifiques au dossier poser sa voix
 defaults:
@@ -53,7 +53,7 @@ defaults:
         nav: "dossier-posersavoix"
       toc: true
       toc_sticky: true
-      categories: ["dossier", "posersavoix"]
+      categories: ["dossiers", "posersavoix"]
 
 search: true
 
