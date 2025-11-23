@@ -1,8 +1,13 @@
 ---
 title: "Poser sa voix — accueil"
 layout: single
-permalink: /dossiers/posersavoix/
+sidebar:
+  nav: "dossier-posersavoix"
 ---
+
+# Poser sa voix
+
+*(Page d’accueil du dossier — contenu à venir)*
 
 
 
