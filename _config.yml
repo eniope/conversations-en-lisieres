@@ -38,7 +38,7 @@ defaults:
 # === NOUVEAU : Collection "dossier-posersavoix" ===
 
 collections:
-  _dossier-posersavoix:
+  dossier-posersavoix:
     output: true
     permalink: /dossiers/posersavoix/:name/
 
