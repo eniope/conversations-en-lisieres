@@ -10,7 +10,7 @@ main:
     url: "/dossiers/"
     children:
       - title: "Poser sa voix"
-        url: "/dossiers/posersavoix/"
+        url: "/dossiers/posersavoix/index"
       # - title: "Bibliothèque vivante"
       #   url: "/dossiers/bibliotheque-vivante/"
       # (Tu ajouteras ici les futurs dossiers)
@@ -26,7 +26,7 @@ main:
 
 dossier-posersavoix:
   - title: "Poser sa voix"
-    url: /dossiers/posersavoix/
+    url: /dossiers/posersavoix/index
     children:
       - title: "1. Pourquoi se situer ?"
         url: /dossiers/posersavoix/01-pourquoi-se-situer/
