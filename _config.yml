@@ -1,3 +1,6 @@
+# ---------------------------------
+# SITE
+# ---------------------------------
 title: "Conversations en lisières"
 description: "Journal d’un citoyen-chercheur automissionné"
 
@@ -13,12 +16,25 @@ highlighter: rouge
 locale: fr
 timezone: Europe/Paris
 
+# ---------------------------------
+# PLUGINS
+# ---------------------------------
 plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# ---------------------------------
+# RECHERCHE
+# ---------------------------------
+search: true
+lunr:
+  search_within_pages: true
+
+# ---------------------------------
+# ARCHIVES (catégories / tags)
+# ---------------------------------
 category_archive:
   type: liquid
   path: /categories/
@@ -27,38 +43,30 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# Defaults existants pour pages normales
+# ---------------------------------
+# DEFAULTS
+# ---------------------------------
 defaults:
+  # Billets du carnet dans _posts/
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
+      classes: wide
+      toc: true
+      toc_sticky: true
+      read_time: true
+      categories: ["carnet"]
 
-# === NOUVEAU : Collection "dossier-posersavoix" ===
-
-collections:
-  dossier-posersavoix:
-    output: true
- 
-
-# Defaults spécifiques au dossier poser sa voix
-defaults:
+  # Pages du dossier "Poser sa voix"
   - scope:
-      path: ""
-      type: dossier-posersavoix
+      path: "dossiers/posersavoix"
     values:
       layout: single
+      classes: wide
       sidebar:
         nav: "dossier-posersavoix"
       toc: true
       toc_sticky: true
       categories: ["dossiers", "posersavoix"]
-
-search: true
-
-lunr:
-  search_within_pages: true
-
-
-

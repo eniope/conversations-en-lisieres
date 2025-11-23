@@ -1,32 +1,23 @@
-###############################################
-# MASTHEAD (menu principal en haut du site)
-###############################################
-
+# ---------------------------------
+# MASTHEAD (menu principal)
+# ---------------------------------
 main:
   - title: "Accueil"
     url: "/"
-
+  - title: "Carnet"
+    url: "/categories/#carnet"
   - title: "Dossiers"
     url: "/dossiers/"
     children:
       - title: "Poser sa voix"
-        url: "/dossiers/posersavoix/index"
-      # - title: "Bibliothèque vivante"
-      #   url: "/dossiers/bibliotheque-vivante/"
-      # (Tu ajouteras ici les futurs dossiers)
+        url: "/dossiers/posersavoix/"
 
-  - title: "Carnet"
-    url: "/categories/#carnet"
-
-  
-
-###############################################
-# SIDEBAR : navigation interne du dossier
-###############################################
-
+# ---------------------------------
+# SIDEBAR DU DOSSIER "POSER SA VOIX"
+# ---------------------------------
 dossier-posersavoix:
   - title: "Poser sa voix"
-    url: /dossiers/posersavoix/index
+    url: /dossiers/posersavoix/
     children:
       - title: "1. Pourquoi se situer ?"
         url: /dossiers/posersavoix/01-pourquoi-se-situer/
