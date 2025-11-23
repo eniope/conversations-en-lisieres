@@ -40,7 +40,7 @@ defaults:
 collections:
   dossier-posersavoix:
     output: true
-    permalink: /dossiers/posersavoix/:name/
+ 
 
 # Defaults spécifiques au dossier poser sa voix
 defaults:
