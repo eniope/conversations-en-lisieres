@@ -18,12 +18,7 @@ main:
   - title: "Carnet"
     url: "/categories/#carnet"
 
-  - title: "Public"
-    url: "/public/"
-
-  - title: "Recherche"
-    url: "/recherche/"
-
+  
 
 ###############################################
 # SIDEBAR : navigation interne du dossier
