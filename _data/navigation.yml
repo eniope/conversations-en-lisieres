@@ -8,6 +8,8 @@ main:
     url: "/categories/#carnet"
   - title: "Dossiers"
     url: "/dossiers/"
+  - title: "S’abonner"
+    url: "/abonnement/"
     children:
       - title: "Poser sa voix"
         url: "/dossiers/posersavoix/"
