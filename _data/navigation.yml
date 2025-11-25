@@ -5,14 +5,15 @@ main:
   - title: "Accueil"
     url: "/"
   - title: "Carnet"
-    url: "/categories/#carnet"
+    url: "/carnet/"
   - title: "Dossiers"
     url: "/dossiers/"
   - title: "S’abonner"
     url: "/abonnement/"
     children:
       - title: "Poser sa voix"
-        url: "/dossiers/posersavoix/"
+        url: "/dossiers/posersavoix/"   
+
 
 # ---------------------------------
 # SIDEBAR DU DOSSIER "POSER SA VOIX"
