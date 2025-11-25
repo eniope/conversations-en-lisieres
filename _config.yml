@@ -40,6 +40,12 @@ lunr:
   search_within_pages: true
 
 # ---------------------------------
+# EXTRAITS (blog)
+# ---------------------------------
+excerpt_separator: "<!--more-->"
+show_excerpts: true
+
+# ---------------------------------
 # ARCHIVES (catégories / tags)
 # ---------------------------------
 category_archive:
