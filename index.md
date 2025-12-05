@@ -12,16 +12,6 @@ entries_layout: list
 Bienvenue sur **Conversations en lisières**,  
 le carnet d’un **citoyen-chercheur automissionné** qui explore les conditions de la production située de connaissances dans les milieux de vie.
 
-🧭 **Ici, vous trouverez :**  
-- ce que je fais au présent pour le futur,  
-- pourquoi je le fais,  
-- comment je le fais — depuis ma trajectoire de bibliothèque vivante,  
-- et selon une culture des précédents.
-
-Ce blog est un espace de mise en clarté, de documentation située, et de navigation partagée.
-
-Bonne traversée — et bienvenue dans cette quête sans carte, mais non sans repères.
-
 </div>
 
 ---
