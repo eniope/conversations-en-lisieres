@@ -5,7 +5,6 @@ layout: single
 type: billet
 espace: blog
 status: publié
-permalink: /
 toc: true
 toc_sticky: true
 read_time: true
@@ -48,6 +47,7 @@ log:
 # Bienvenue
 
 **Ici, vous trouverez ce que je fais _au présent pour le futur_, pourquoi je le fais, et comment je le fais — en fonction de ma trajectoire de _bibliothèque vivante_ et de ma culture des précédents.**
+
 <!--more-->
 
 Ce blog n’est pas un espace d’opinion.  

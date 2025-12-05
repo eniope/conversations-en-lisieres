@@ -1,6 +1,6 @@
 ---
 # ░░░ 1. ZONE SOCLE — FONDATIONS (stable, rarement modifiée) ░░░
-title: "Article d’entrée — Une manière d’avancer"
+title: "Une manière d’avancer"
 layout: single
 type: billet
 espace: blog
@@ -47,7 +47,9 @@ log:
 
 
 L'objet de ce blog est de garder une trace des moments qui comptent : lectures, rencontres, conversations, situations liées à la santé ou à mes engagements pour suivre ce qu’ils ouvrent en moi.
+
 <!--more-->
+
 Au fil des jours, j’observe une alternance qui revient naturellement :
 des faits vécus, puis des moments pour comprendre ce que ces faits ont produit.
 Je décide de m’appuyer sur ce rythme.
