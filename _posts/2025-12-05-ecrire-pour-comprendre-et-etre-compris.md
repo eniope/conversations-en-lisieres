@@ -59,8 +59,7 @@ C’est un lieu de **mise en clarté**, de **documentation située**, de **navig
 J’ai besoin d’un espace où je peux être lu de manière non pressée, selon différents niveaux d’entrée.  
 Un espace qui **met à disposition les repères utiles** pour qui souhaite entrer en conversation avec moi.
 
-Ce blog est aussi un outil de **capabilité expressive** : il me permet d’articuler ce que je cherche à faire advenir, ce que j’apprends en chemin, et comment je m’oriente dans un monde où il faut souvent se frayer sa propre voie.
-
+Ce blog est aussi un outil de **capabilité expressive** : il me permet d’articuler ce que je cherche à faire advenir, ce que j’apprends en chemin, et comment je m’oriente dans un monde incertain
 ## Ce que vous trouverez ici
 
 - Des **billets** pour suivre les faits, les compréhensions, les ajustements.
@@ -72,9 +71,8 @@ Ce blog est aussi un outil de **capabilité expressive** : il me permet d’arti
 > _“Je suis dans une zone sans carte, mais non sans repères.”_
 
 Le projet que je porte est une enquête située, vivante, documentée.  
-Sa question réelle (ouverte, sans réponse connue) :
 
-### Une question réelle
+### Sa question réelle (ouverte, sans réponse connue) :
 
 _« Comment les habitants d’un territoire, en assumant la pluralité de leurs temporalités vécues, peuvent-ils produire ensemble des formes de connaissance capables de nourrir une science citoyenne située ? »_
 
@@ -92,3 +90,13 @@ Vous pouvez aussi suivre certains **couloirs de lecture** (bientôt activés) se
 
 Ce blog est aussi une manière de dire :  
 **voilà où j’en suis — si vous venez vers moi, vous savez de quoi on parle.**
+
+# S’abonner aux nouvelles de « Conversations en lisières »
+
+Votre adresse reste confidentielle et le désabonnement est possible à tout moment.
+
+<div class="newsletter-form">
+
+&nbsp; <script async data-uid="b0282fed3a" src="https://conversations-en-lisieres.kit.com/b0282fed3a/index.js"></script>
+
+</div>

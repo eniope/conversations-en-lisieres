@@ -14,21 +14,9 @@ toc: false
 
 
 
-\# S’abonner aux nouvelles de « Conversations en lisières »
-
-
-
-Je partage de temps en temps des jalons :  
-
-des faits, des situations, des lectures, des conversations qui comptent.
-
-
-
-Vous recevrez uniquement ces moments-là.  
+# S’abonner aux nouvelles de « Conversations en lisières »
 
 Votre adresse reste confidentielle et le désabonnement est possible à tout moment.
-
-
 
 <div class="newsletter-form">
 
