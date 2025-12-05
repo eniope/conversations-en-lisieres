@@ -1,3 +1,4 @@
+
 ---
 
 title: "1. Pourquoi se situer ?"
@@ -13,6 +14,3 @@ sidebar:
 
 
 \*(contenu à venir)\*
-
-
-
