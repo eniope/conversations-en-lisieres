@@ -35,9 +35,8 @@ Avant de voir de quoi il retourne, il s’agit surtout de **faire un pas**.
   </a>
 </div>
 
-![Les métiers de nos pensées](./static/images/les-metiers-de-nos-pensees.jpg)
+![Les métiers de nos pensées](les-metiers-de-nos-pensees.jpg)
 
-<img src="./static/images/les-metiers-de-nos-pensees.jpg" alt="Les métiers de nos pensées">
 
 
 
