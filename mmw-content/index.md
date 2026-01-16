@@ -35,3 +35,4 @@ Avant de voir de quoi il retourne, il s’agit surtout de **faire un pas**.
   </a>
 </div>
 
+![Les métiers de nos pensées](/static/assets/images/les-metiers-de-nos-pensees.jpg)
