@@ -35,14 +35,11 @@ Avant de voir de quoi il retourne, il s’agit surtout de **faire un pas**.
   </a>
 </div>
 
-![Les métiers de nos pensées](/static/images/Les-metiers-de-nos-pensees.jpg)
-
-
 <p style="text-align:center;">
   <img
     src="/static/images/Les-metiers-de-nos-pensees.jpg"
     alt="Les métiers de nos pensées"
-    style="max-width:60%; height:auto;"
+    style="max-width:70%; height:auto;"
   />
 </p>
 
