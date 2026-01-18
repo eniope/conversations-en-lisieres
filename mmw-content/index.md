@@ -41,8 +41,9 @@ Avant de voir de quoi il retourne, il s’agit surtout de **faire un pas**.
     alt="Les métiers de nos pensées"
     style="max-width:70%; height:auto;"
   />
+    > « Le progrès est impossible sans changement et ceux qui ne peuvent changer leur esprit ne peuvent absolument rien changer. » George Bernard Shaw
 </p>
-
+  > « Le progrès est impossible sans changement et ceux qui ne peuvent changer leur esprit ne peuvent absolument rien changer. » George Bernard Shaw
 
 
 
