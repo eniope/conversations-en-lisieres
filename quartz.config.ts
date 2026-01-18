@@ -148,8 +148,10 @@ const config: QuartzConfig = {
         enableRSS: true,
       }),
       Plugin.Static({
-      staticDir: "assets",
+      staticDir: "_static",
+      outputDir: "static",
       }),
+
       Plugin.NotFoundPage(),
     ],
   },
