@@ -1,3 +1,5 @@
+console.log(">>> LOADED QUARTZ CONFIG: ASSETS STATICDIR <<<")
+
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { Citations } from "./quartz/plugins/transformers/citations"
