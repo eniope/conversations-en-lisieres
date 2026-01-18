@@ -35,7 +35,7 @@ jobs:
       - name: Copy shared images into public
         run: |
           mkdir -p public/static/images
-          cp -R mmw-content/_static/images/* public/static/images/
+          cp -R mmw-content/_static/images/* public/static/images/ 
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
